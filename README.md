@@ -1,16 +1,22 @@
-### Hi there 👋
+## Hello, there! 👋 Ainārs here.
 
-<!--
-**brainars/brainars** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+🖥️ I’m working as a software developer.
+ 
+🔎 Currently working on a Java project: 'Flight Planner'.
 
-Here are some ideas to get you started:
+🌍 I'm experienced in GIS, mapping and drone technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🏃 In my free time i'm a passionat trail runner.
+
+## Languages and technologies
+
+Java, HTML, Javascript, CSS, Typescript, ReactJS, GIT, mySQL.
+
+
+
+## Reach me out
+https://www.linkedin.com/in/ainars-bralitis/
+
+ainars.bralitis@gmail.com
+
